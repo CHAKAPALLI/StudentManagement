@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5290256-c837-4c47-b436-e4e229e3efa8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/fullstack-backend/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-backend/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-backend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/fullstack-backend/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-frontend/src/pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/fullstack-frontend/src/pages/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-frontend/src/users/AddUser.js" beforeDir="false" afterPath="$PROJECT_DIR$/fullstack-frontend/src/users/AddUser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-frontend/src/users/EditUser.js" beforeDir="false" afterPath="$PROJECT_DIR$/fullstack-frontend/src/users/EditUser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-frontend/src/users/ViewUser.js" beforeDir="false" afterPath="$PROJECT_DIR$/fullstack-frontend/src/users/ViewUser.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/fullstack-backend" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2gfePBJACGDBGk8yzd5D3qXkoV7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Asus/Documents/coding ninja/User-SpringBoot-REACT-MySQL/fullstack-backend",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5290256-c837-4c47-b436-e4e229e3efa8" name="Changes" comment="" />
+      <created>1716093032563</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716093032563</updated>
+      <workItem from="1716093033731" duration="15000" />
+    </task>
+    <servers />
+  </component>
+</project>
