@@ -1,0 +1,1 @@
+This application, built with Spring Boot and React, provides a comprehensive solution for managing student records. It allows users to easily add, remove, and update student information. Designed for simplicity and efficiency.
